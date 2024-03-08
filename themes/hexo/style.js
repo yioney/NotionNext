@@ -41,7 +41,8 @@ const Style = () => {
     }
 
     /* Custem */
-    .flex {
+     .md\:justify-end {
+    justify-content: flex-end;
     display: none;
 }
 
