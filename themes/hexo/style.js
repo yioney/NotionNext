@@ -41,9 +41,9 @@ const Style = () => {
     }
 
     /* Custem */
-    .tk-footer{
-        opacity: 0;
-    }
+    .flex {
+    display: none;
+}
 
     // 选中字体颜色
     ::selection {
